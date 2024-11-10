@@ -43,7 +43,6 @@
             {"emoji": "🤚", "annotation": "raised back of hand"},
             {"emoji": "✋", "annotation": "raised hand"},
             {"emoji": "👌", "annotation": "OK hand"},
-            {"emoji": "🤌", "annotation": "pinched fingers"},
             {"emoji": "🤏", "annotation": "pinching hand"},
             {"emoji": "✌️", "annotation": "victory hand"},
             {"emoji": "🤞", "annotation": "crossed fingers"},
@@ -148,7 +147,6 @@
             {"emoji": "📀", "annotation": "dvd"},
             {"emoji": "📼", "annotation": "videocassette"},
             {"emoji": "🧯", "annotation": "fire extinguisher"},
-            {"emoji": "🪚", "annotation": "saw"},
             {"emoji": "🧹", "annotation": "broom"},
             {"emoji": "🔫", "annotation": "water pistol"}
         ]
