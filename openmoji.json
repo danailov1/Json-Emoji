@@ -132,7 +132,6 @@
         "emojis": [
             {"emoji": "🔧", "annotation": "wrench"},
             {"emoji": "🔨", "annotation": "hammer"},
-            {"emoji": "🪛", "annotation": "screwdriver"},
             {"emoji": "🔒", "annotation": "locked"},
             {"emoji": "🔓", "annotation": "unlocked"},
             {"emoji": "🔑", "annotation": "key"},
