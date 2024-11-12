@@ -2,7 +2,7 @@
     {
         "title": "Feature 1",
         "description": "Encryption",
-        "image": "/assets/yellow.jpg"
+        "image": "https://raw.githubusercontent.com/danailov1/Json-Emoji/refs/heads/main/images.jpg"
     },
     {
         "title": "Feature 2",
