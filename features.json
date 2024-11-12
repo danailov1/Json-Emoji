@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Feature 1",
+        "description": "Encryption",
+        "image": "/assets/yellow.jpg"
+    },
+    {
+        "title": "Feature 2",
+        "description": "Voice Messaging",
+        "image": "/assets/yellow.jpg"
+    }
+]
