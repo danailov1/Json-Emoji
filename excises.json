@@ -60,7 +60,7 @@
       { "id": "pallof_press", "name": "Pallof Press", "type": "core" },
       { "id": "cable_lateral_raise", "name": "Cable Lateral Raise", "type": "isolation" },
       { "id": "arnold_press", "name": "Arnold Press", "type": "compound" },
-      { "id": "bulgarian_split_squat", "name": "Bulgarian Split Squat", "type": "compound" },
+      { "id": "bulgarian_split_squat", "name": "Bulgarian Split Squat", "type": "isolate" },
       { "id": "sled_push", "name": "Sled Push", "type": "functional" },
       { "id": "landmine_press", "name": "Landmine Press", "type": "compound" },
       { "id": "t_bar_row", "name": "T-Bar Row", "type": "compound" },
